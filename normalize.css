@@ -347,3 +347,9 @@ template {
 [hidden] {
   display: none;
 }
+/**
+* Remueve un espacio en la parte superior interna de la tabla
+*/
+table {
+   border-collapse: collapse;
+  }
